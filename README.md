@@ -1,5 +1,5 @@
 # DatLichKhambenh
-- Đặt lịch khám bệnh đây là  môn Web Component Development using Java đã được cập nhật trên phần mềm APMS.
+- Đặt lịch khám bệnh đây là  môn Web Component Development using Java đã được cập nhật trên phần mềm APMS. Sử dụng Eclipse để viết 
 
 - A.	Admin:
 1.	Thêm, xóa và sửa thông tin các khoa.
